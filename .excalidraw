@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "fRFeqqJGtqOGEcO05CqqF",
+      "type": "text",
+      "x": 335,
+      "y": 164,
+      "width": 1098.87890625,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a2",
+      "roundness": null,
+      "seed": 56526104,
+      "version": 158,
+      "versionNonce": 1732214632,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1751806042385,
+      "link": null,
+      "locked": false,
+      "text": "Source Component UI Button-->Ctrl + SPace  and ALso Ctrl +P for searching file and Ctril+F for searching word",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Source Component UI Button-->Ctrl + SPace  and ALso Ctrl +P for searching file and Ctril+F for searching word",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
