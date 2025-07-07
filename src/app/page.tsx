@@ -22,7 +22,7 @@ const Page = async () => {
   // const data = await caller.createAI({ text: "Samikshya Nanda", number: 23 })
   return (
     <HydrationBoundary state={dehydrate(queryClient)}>
-      <Suspense fallback={<p>Loading...</p>}>
+      <Suspense fallback={<p>Loading</p>}>
         <Client />
       </Suspense>
     </HydrationBoundary>
